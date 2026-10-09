@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Backend Developer!
+### 🌱 Backend Newbie
 
 ### 🛠 Tech Stacks
 
